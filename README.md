@@ -1,4 +1,4 @@
-  **FLASK API - STOCK MANAGEMENT**
+  ****FLASK API - STOCK MANAGEMENT****
   
 **Overview**
 
