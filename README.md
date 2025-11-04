@@ -1,24 +1,24 @@
-  FLASK API - STOCK MANAGEMENT
+  **FLASK API - STOCK MANAGEMENT**
   
-Overview
+**Overview**
 
-A simple flask-based REST API that allows you to perform basic CRUD operation(Create, read, update and delete)for managing stock invenory. \
+A simple flask-based REST API that allows you to perform basic **CRUD operation**(Create, read, update and delete)for managing stock invenory. \
 
 This project demonstrates the basics of CRUD operation using python and flask.  
 
-Features
-  - Create a new item
-  - Retrieve all or each item
-  - Update an existing item
-  - Delete an item
+**Features**
+  - **Create** a new item
+  - **Retrieve** all or each item
+  - **Update** an existing item
+  - **Delete** an item
 
-Technologies Used
+**Technologies Used**
 
  -Flask(for building API)
  
  -Postman(for testing endpoint)
 
-Setup Instructions
+**Setup Instructions**
 
  1. Create and activate a virtual environment:
     
@@ -123,3 +123,17 @@ Testing endpoint with(Postman)
         "message": "Item with id 1 deleted successfully"
        }
 
+
+
+Notes
+
+-All data is stored in memory — restarting the server resets it.
+
+-Use a database (like SQLite or PostgreSQL) for persistence.
+
+-You can extend this project using Flask-RESTful or FastAPI for more features.
+
+
+Author
+
+Name: Eloh Victor
